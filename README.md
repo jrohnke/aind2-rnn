@@ -1,5 +1,10 @@
 # Recurrent Neural Networks course project: time series prediction and text generation
 
+## Introduction
+
+This project is part of the Artificial Intelligence Nanodegree on Udacity.<br>
+This project is split into two parts. In the first part I use RNNs to predict future values of a stock-price time-series. In the second part I train a RNN model on a corpus of Sherlock Holmes novels and use it to generate text that resembles that of the books.
+
 ## Accelerating the Training Process 
 
 If your code is taking too long to run, you will need to either reduce the complexity of your chosen RNN architecture or switch to running your code on a GPU.  If you'd like to use a GPU, you have two options:
